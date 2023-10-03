@@ -51,7 +51,7 @@ const Banner = () => {
                       initial='hidden'
                       whileInView={'show'}
                       viewport={{ once: false, amount: 0.7}}
-            className='btn btn-lg'>Contact me</motion.button>
+            className='btn btn-lg'>Download my CV</motion.button>
             </div>
             
             <motion.div 
